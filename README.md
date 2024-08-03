@@ -15,6 +15,6 @@
      3. API       =>  Google Gemini
 
 ## 3) Run application final look :-     
+![20edce0e-fc3e-4242-9655-9672452ec25c](https://github.com/user-attachments/assets/6e1c2273-d9f8-444c-8fa9-b3311a7262aa)
 
   
-![Screenshot_20240803_112416](https://github.com/user-attachments/assets/6cebf328-099e-45b3-963d-0c61158319c9)
